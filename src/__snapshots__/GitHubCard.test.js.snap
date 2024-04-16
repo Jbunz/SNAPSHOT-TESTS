@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders GitHubCard snapshot 1`] = `
+<div
+  className="card"
+>
+  <img
+    className="card-img-top"
+    src="C:\\\\Users\\\\jacob\\\\Downloads\\\\charlesdeluvio-K4mSJ7kc0As-unsplash.jpg"
+    style={
+      Object {
+        "height": "300px",
+        "width": "275px",
+      }
+    }
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Jbunz
+    </div>
+    <p
+      className="card-text"
+    >
+      Photos make me nervous!
+    </p>
+  </div>
+</div>
+`;
